@@ -1,75 +1,76 @@
-<h1 align="center">  👋 Hi, I'm Yusuf AYTAŞ </h1>
-<h4 align="center" > I am a software engineer student and I share my projects here. 👨‍🎓 </h2>
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://tenor.com/tr/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647.gif" width="100%" alt="Coding Banner">
+</div>
 
-## ⏲ What am i doing now:
-- 🔭 I am currently developing myself towards becoming full stack. I am also interested in cyber security as a hobby. 👩‍💻
-- 👋 Fact: I love to search and learn new informations 🚀</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#F78200;">Yusuf Aytaş</span></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=F78200&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;DevOps+%26+Cloud+Engineer+☁️;AI+Automation+Builder+🤖;Lifelong+Learner+🚀" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-yusufaytasss&style=plastic)
-### 📩 Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" />][w3schools]
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
-[<img align="left" height="24" width="24" src="https://developers.google.com/static/site-assets/images/home/developers-social-media.png" />][googlefordevelopers]
-[<img align="left" height="24" width="24" src="https://devnot.com/wp-content/uploads/2022/06/huawei-hsd.png" />][huaweistudentdevelopers]
-<br />
-</a>
+---
 
-### 💻 Languages and Tools (Learning and Using): 
+### 🧠 About Me  
 
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />][html5]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][css3]
-[<img align="left" height="45" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" />][sass]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.png" />][bootstrap]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />][nodejs]
-[<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" />][jquery]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />][typescript]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" />][c#]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />][mysql]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" height="45" width="45" src="https://w7.pngwing.com/pngs/284/106/png-transparent-visual-studio-code-logo.png" />][vscode]
-[<img align="left" height="45" width="45" src="https://miro.medium.com/v2/resize:fit:1400/1*rCK7fhfY9jb-osA77oaOAQ.png" />][webstrom]
-[<img align="left" height="45" width="45" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" />][codepen]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
-<br />
-</a>
+💡 A curious **Software Engineer** who loves turning ideas into reality with **code & automation.**  
+🚀 Passionate about **DevOps**, **Cloud Computing**, and **AI-driven systems.**  
+🧩 Focused on building projects that combine **creativity + technology.**  
+📍 Based in Turkey | 🌐 Exploring global DevOps ecosystems.
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
-<br />
+### ⚙️ Tech Stack  
 
-[huaweistudentdevelopers]: https://www.linkedin.com/in/hsd-firat-university/
-[googlefordevelopers]: https://developers.google.com/profile/u/yusufaytas
-[linkedin]: https://www.linkedin.com/in/yusufaytasss/
-[w3schools]: https://yusufaytas.w3spaces.com/
-[stackoverflow]: https://stackoverflow.com/users/25539323/yusuf-aytas
-[gmail]: mailto:yusufaytas642@gmail.com
-[html5]: https://www.w3schools.com/html/
-[css3]: https://www.w3schools.com/css/
-[sass]: https://sass-lang.com/
-[bootstrap]: https://getbootstrap.com/
-[javascript]: https://www.javascript.com/
-[typescript]: https://www.typescriptlang.org/
-[nodejs]: https://nodejs.org/en
-[jquery]: https://jquery.com/
-[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[vscode]: https://code.visualstudio.com/
-[webstrom]: https://www.jetbrains.com/webstorm/
-[codepen]: https://codepen.io/
-[git]: https://git-scm.com/
-[github]: https://github.com/yusufaytasss
-[C]: https://en.cppreference.com/w/
-[C++]: https://en.cppreference.com/w/
-[java]: https://www.java.com/en/
-[git]: https://git-scm.com/
-[mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
-[mysql]: https://www.mysql.com/
-[intellij]: https://www.jetbrains.com/idea/
-[linux]: https://www.linux.org/
-[vstudio]: https://visualstudio.microsoft.com/
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,angular,react,dotnet,nodejs,html,css,js,docker,terraform,mongodb,linux,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-yuci&theme=github-dark&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-yuci&show_icons=true&theme=github_dark&hide_border=true" width="420" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+
+### 🎯 Featured Projects  
+
+- 🧠 **KubeDRT** — Automating multi-region Kubernetes disaster recovery on Huawei Cloud.  
+- 🎓 **EduVisionAI** — Inclusive AI-powered learning platform.  
+- 🎥 **AI Video Bot** — End-to-end text-to-video automation pipeline.  
+- 🛍️ **KubeShop** — Modern e-commerce platform with microservice architecture.
+
+---
+
+### 🌍 Let's Connect  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yusufaytas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/dev-yuci" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://medium.com/@yusufaytas" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-yuci&style=for-the-badge&color=F78200" alt="Profile Views" />
+</div>
+
+---
