@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://tenor.com/tr/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647.gif" width="100%" alt="Coding Banner">
+  <img src="https://tenor.com/tr/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647.gif" width="60%" alt="Coding Banner">
 </div>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#F78200;">Yusuf Aytaş</span></h1>
@@ -31,7 +31,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-yuci&theme=github-dark&hide_border=true" width="420" />
   <img src="https://github-readme-stats.vercel.app/api?username=dev-yuci&show_icons=true&theme=github_dark&hide_border=true" width="420" />
 </p>
 
