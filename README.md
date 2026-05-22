@@ -122,10 +122,13 @@ I am a **Software Engineer** passionate about turning ideas into reality through
   <img src="https://komarev.com/ghpvc/?username=dev-yuci&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+---
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dev-yuci/dev-yuci/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
