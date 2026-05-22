@@ -18,7 +18,7 @@ I am a **Software Engineer** passionate about turning ideas into reality through
 
 ---
 
-### 💡 About Me & Experiences
+### 💡 About Me & Experiences 💡
 
 - ☁️ Gained hands-on experience as a DevOps & Cloud Engineer Intern at **Huawei** and **Cloudmetrik**, building infrastructure automation (IaC) workflows using **Terraform, Docker, Kubernetes**, and **AWS / Huawei Cloud**.
 - 🤖 Worked as an AI Software Engineer Intern at **Microsoft**, where I developed **Teams Action Copilot**—an end-to-end meeting intelligence tool that automatically extracts key decisions and action items from transcripts using NLP techniques.
