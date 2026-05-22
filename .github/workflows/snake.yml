@@ -2,18 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Günde 2 kez (12 saatte bir) otomatik çalışır
-  workflow_dispatch: # İstediğin zaman manuel olarak çalıştırmanı sağlar
+    - cron: "0 */12 * * *" 
+  workflow_dispatch: 
   push:
     branches:
-    - main # veya master (ana branch'in hangisiyse)
+    - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # İŞTE ÇÖZÜM BURADA: Action'a repoya yazma izni veriyoruz
+    permissions:
+      contents: write
+      
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push output to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
