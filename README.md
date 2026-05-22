@@ -1,4 +1,10 @@
-# 🚀 Hi, I'm Yusuf Aytaş! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=250&section=header&text=Hi,%20I'm%20Yusuf%20Aytaş!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" style="border-radius: 10px;" alt="Coding Animation" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
