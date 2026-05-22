@@ -1,81 +1,117 @@
-# 🚀 Selam, Ben Yusuf Aytaş! 👋
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+%26+Cloud+Enthusiast;AI-Driven+Systems+Builder;Product+Owner" alt="Typing SVG" />
-  </a>
+```
+██╗   ██╗██╗   ██╗███████╗██╗   ██╗███████╗
+╚██╗ ██╔╝██║   ██║██╔════╝██║   ██║██╔════╝
+ ╚████╔╝ ██║   ██║███████╗██║   ██║█████╗  
+  ╚██╔╝  ██║   ██║╚════██║██║   ██║██╔══╝  
+   ██║   ╚██████╔╝███████║╚██████╔╝██║     
+   ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     
+```
+ 
+### `> whoami`
+ 
 </div>
-
-<br/>
-
-Fikirleri kod ve otomasyonla gerçeğe dönüştürmeyi seven, **DevOps**, **Cloud** ve **Yapay Zeka** odaklı bir Yazılım Mühendisiyim. Sistemleri daha güvenli, ölçeklenebilir ve akıllı hale getirmek en büyük tutkum.
-
+```bash
+$ cat /etc/yusuf.conf
+ 
+NAME="Yusuf Aytaş"
+ROLE="Software Engineer & DevOps Enthusiast"
+LOCATION="Turkey 🇹🇷"
+STATUS="Building stuff that shouldn't break (but sometimes does)"
+COFFEE_DEPENDENCY=true
+CURRENTLY_LEARNING="Always something new"
+```
+ 
 ---
-
-### 💡 Hakkımda
-
-- ☁️ Şu anda **Huawei Cloud** ekosistemi (OBS, ModelArts, CCE) üzerinde derinleşiyor ve bulut mimarileri tasarlıyorum.
-- 🤖 Projelerime **LLM**, **RAG** ve **AI Ajanları** entegre ederek yeni nesil yazılımlar geliştiriyorum.
-- 🛡️ Altyapı güvenliği konusuna özel bir ilgim var. (Terraform, Trivy, Checkov)
-- 🎯 Geliştirici topluluklarında takım liderliği ve **Product Owner (PO)** şapkasıyla projeleri uçtan uca yönetmeyi seviyorum.
-
-### 🏆 Başarılar & Öne Çıkanlar
-- 🥇 **Coding Marathon 2025** - SiMİT Ops takımı ile Birincilik
-- 🥈 **Spark INFINITY** - Huawei Developer Competition Turkey İkinciliği
-
----
-
-### 🔥 Geliştirdiğim & Yönettiğim Projeler
-
-| Proje | Açıklama | Roller & Teknolojiler |
-| :--- | :--- | :--- |
-| **IaC-Guard** | Bulut tabanlı iş akışlarındaki güvenlik açıklarını tarayan ve düzelten yapay zeka destekli altyapı (IaC) güvenlik analiz çerçevesi. | *Product Owner*, Terraform, AI |
-| **Coterium** | Teknik topluluk yönetimini merkezileştiren ve dijitalleştiren yenilikçi topluluk etkinlik platformu. | *Product Owner*, Backend, Cloud |
-| **KubeDRT** | Huawei Cloud üzerinde çoklu bölge (multi-region) Kubernetes felaket kurtarma süreçlerinin otomasyonu. | DevOps, K8s, Huawei Cloud |
-| **OceanLens** | Çocuklar için eğitici ögeler ve oyunlaştırma barındıran, Flutter tabanlı yenilenmiş Artırılmış Gerçeklik (AR) uygulaması. | Mobile, AR, Flutter |
-| **EduVisionAI** | Herkes için erişilebilir, yapay zeka destekli kapsayıcı öğrenme platformu. | AI, Backend |
-
----
-
-### 🛠️ Teknoloji Yığınım
-
+ 
 <div align="center">
-  
-**Bulut, DevOps & Güvenlik**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,git,bash&theme=dark" />
-</a>
-
-**Yazılım & Yapay Zeka**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dotnet,nodejs,react,angular,mongodb&theme=dark" />
-</a>
-
+## 🧠 `about --me`
+ 
 </div>
-
+> *"Any sufficiently advanced automation is indistinguishable from magic."*
+ 
+Merhaba dünya! Ben **Yusuf** — gündüzleri kod yazıp, geceleri pipeline'ların çökmesini izleyen biriyim. ☕
+ 
+- 🔭 Şu an üzerinde çalıştığım şey: Kubernetes'i ateşe vermeden yönetmek
+- 🌱 Öğrenmeye devam ediyorum: Her gün bir şeyler (çoğunlukla yanlış yaptığım şeyleri)
+- 💬 Bana şunları sor: DevOps, Cloud, AI, veya neden `rm -rf` komutunu çalıştırmama gerek var
+- ⚡ Eğlenceli gerçek: Commit mesajlarımın %90'ı `"fix"` veya `"wip"` ile başlar
 ---
-
-### 📊 GitHub İstatistikleri
-
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-yuci&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-yuci&theme=radical&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
+## ⚙️ `tech-stack --list`
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+**Backend & Cloud**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+ 
+**Tools & OS**
+ 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-yuci&theme=radical" width="70%" />
-</p>
-
 ---
-
-### 📫 Bana Ulaşın
-
+ 
 <div align="center">
-  <a href="https://linkedin.com/in/yusufaytasss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@yusufaytasss"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+## 🎯 `projects --featured`
+ 
 </div>
-
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufaytas&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
-</p>
+| Proje | Ne yapıyor? | Durum |
+|-------|-------------|-------|
+| 🧠 **KubeDRT** | Huawei Cloud üzerinde multi-region Kubernetes disaster recovery otomasyonu | 🟢 Active |
+| 🎓 **EduVisionAI** | Kapsayıcı AI destekli öğrenme platformu | 🟢 Active |
+| 🎬 **AI Video Bot** | Text-to-video uçtan uca otomasyon pipeline'ı | 🔧 Building |
+| 🛒 **KubeShop** | Microservice mimarili modern e-ticaret platformu | 🟢 Active |
+ 
+---
+ 
+<div align="center">
+## 📊 `git log --stats`
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-yuci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yuci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-yuci&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+ 
+</div>
+---
+ 
+<div align="center">
+## 🌐 `connect --with-me`
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-aytaş)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-yuci)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yusuf-aytas)
+ 
+</div>
+---
+ 
+<div align="center">
+```bash
+$ echo "Thanks for visiting! Don't forget to ⭐ something."
+Thanks for visiting! Don't forget to ⭐ something.
+$ _
+```
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=dev-yuci&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+ 
+</div>
