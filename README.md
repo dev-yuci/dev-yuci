@@ -32,6 +32,7 @@ I am a **Software Engineer** passionate about turning ideas into reality through
 **Competition Successes:**
 - 🥇 **1st Place:** Coding Marathon 2025 (SiMİT Ops Team Leader) — *BTK Academy & Huawei R&D*
 - 🥈 **2nd Place:** Spark INFINITY — *Huawei Developer Competition (Europe)*
+- 🏅 **Finalist (Top 4 out of 92):** Q-Gen Hackathon (SoniQ Team) — *Doğuş Teknoloji*
 
 **Featured Certifications:**
 <br/>
